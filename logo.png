@@ -15,7 +15,7 @@ LOGOS
           <th>Author</th>
           <th>Pages</th>
 
-        </tr>
+       
         <tr ng-repeat="book in books">
           <td>{{book.name}}</td>
           <td>{{book.isbn}}</td>
